@@ -50,6 +50,7 @@ module.exports = {
     'func-style': ['off', 'expression', { allowArrowFunctions: true }],
     'key-spacing': ['error', { beforeColon: false }],
     'keyword-spacing': ['error', { before: true }],
+    'jsx-quotes': ['error', 'prefer-single'],
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     'react-native/no-inline-styles': 'error'
