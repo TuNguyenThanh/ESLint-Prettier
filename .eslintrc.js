@@ -17,6 +17,7 @@ module.exports = {
         ignorePattern: '^import\\W.*'
       }
     ],
+    curly: 'error',
     'arrow-parens': ['error', 'always'],
     'arrow-spacing': 'error',
     'comma-dangle': ['error', 'never'],
